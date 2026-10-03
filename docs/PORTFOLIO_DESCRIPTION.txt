@@ -1,0 +1,5 @@
+Short description (EN):
+Research prototype for project-team formation from Jira-like digital traces. The pipeline performs employee-level data aggregation, composite scoring, constrained coalition search, cooperative-game-inspired budget allocation, Monte Carlo validation, and result visualization in Python.
+
+Короткое описание (RU):
+Исследовательский прототип формирования проектных команд по цифровым следам Jira: агрегация данных сотрудников, интегральная оценка, поиск коалиций с ограничениями, кооперативно-игровое распределение бюджета, Monte Carlo валидация и визуализация результатов на Python.

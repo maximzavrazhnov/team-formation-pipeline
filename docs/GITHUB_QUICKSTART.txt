@@ -1,0 +1,28 @@
+GITHUB QUICKSTART
+
+1. Create an account at github.com.
+2. Click + -> New repository.
+3. Repository name: team-formation-pipeline
+4. Description:
+   Research prototype for project-team formation using digital traces and cooperative-game-inspired methods.
+5. Choose Public.
+6. Do NOT initialize the repository with another README, .gitignore, or license.
+7. Create repository.
+8. Open Add file -> Upload files.
+9. Unzip the package on your device/computer and upload the CONTENTS of the team-formation-pipeline-github folder.
+10. Make sure README.md is at the repository root, not inside an extra nested folder.
+11. Commit message: Initial public research prototype
+12. Click Commit changes.
+
+Recommended profile bio:
+PhD student @ SPbPU | Applied Math & Systems Analysis | Python / C++ / SQL | Data Analysis, Cooperative Game Theory, AI Agents & Cybersecurity
+
+Recommended topics:
+python, data-analysis, optimization, cooperative-game-theory, shapley-value, team-formation, research, jira, monte-carlo
+
+BEFORE EVERY PUBLICATION:
+- do not upload real Jira exports;
+- do not upload employee identifiers;
+- do not upload API keys, passwords, tokens or private datasets;
+- run git status if you use Git from the command line;
+- keep generated outputs in outputs/ (already ignored by .gitignore).

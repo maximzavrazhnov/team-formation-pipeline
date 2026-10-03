@@ -1,0 +1,28 @@
+{
+  "weights": [
+    0.25,
+    0.15,
+    0.12,
+    0.15,
+    0.1,
+    0.13,
+    0.1
+  ],
+  "project_budget": 1200000,
+  "project_hours": 160,
+  "min_team_size": 2,
+  "max_team_size": 6,
+  "alpha_base": 20000,
+  "beta": 1.2,
+  "generate_salaries": true,
+  "base_rate_per_hour": 1800,
+  "target_correlation": 0.65,
+  "salary_variation": 0.5,
+  "outlier_fraction": 0.1,
+  "top_coalitions_count": 10,
+  "required_project_value": 100000,
+  "monte_carlo_simulations": 5,
+  "oracle_trials": 3,
+  "search_iterations": 2500,
+  "oracle_search_iterations": 1500
+}
